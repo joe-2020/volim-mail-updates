@@ -1,0 +1,16 @@
+{
+  "algorithm" : "Ed25519",
+  "archiveByteCount" : 25300468,
+  "build" : 123,
+  "bundleID" : "com.volim.app",
+  "downloadURL" : "https:\/\/github.com\/joe-2020\/volim-mail-updates\/releases\/download\/build-123\/Volim-Mail-123.zip",
+  "format" : 1,
+  "minimumSystemVersion" : "15.0",
+  "notes" : "Offline label actions and Move to Inbox; authenticated in-app updates with Install and Restart; private Google Drive folder organization; account-key recovery and uncertain-transfer review. Includes the searchable Settings redesign and quieter Primary\/Updates category badges.",
+  "payload" : "ewogICJidW5kbGVJRCI6ICJjb20udm9saW0uYXBwIiwKICAidmVyc2lvbiI6ICIxLjAiLAogICJidWlsZCI6IDEyMywKICAibWluaW11bVN5c3RlbVZlcnNpb24iOiAiMTUuMCIsCiAgImRvd25sb2FkVVJMIjogImh0dHBzOi8vZ2l0aHViLmNvbS9qb2UtMjAyMC92b2xpbS1tYWlsLXVwZGF0ZXMvcmVsZWFzZXMvZG93bmxvYWQvYnVpbGQtMTIzL1ZvbGltLU1haWwtMTIzLnppcCIsCiAgImFyY2hpdmVCeXRlQ291bnQiOiAyNTMwMDQ2OCwKICAicmVsZWFzZU5vdGVzVVJMIjogImh0dHBzOi8vZ2l0aHViLmNvbS9qb2UtMjAyMC92b2xpbS1tYWlsLXVwZGF0ZXMvcmVsZWFzZXMvdGFnL2J1aWxkLTEyMyIsCiAgIm5vdGVzIjogIk9mZmxpbmUgbGFiZWwgYWN0aW9ucyBhbmQgTW92ZSB0byBJbmJveDsgYXV0aGVudGljYXRlZCBpbi1hcHAgdXBkYXRlcyB3aXRoIEluc3RhbGwgYW5kIFJlc3RhcnQ7IHByaXZhdGUgR29vZ2xlIERyaXZlIGZvbGRlciBvcmdhbml6YXRpb247IGFjY291bnQta2V5IHJlY292ZXJ5IGFuZCB1bmNlcnRhaW4tdHJhbnNmZXIgcmV2aWV3LiBJbmNsdWRlcyB0aGUgc2VhcmNoYWJsZSBTZXR0aW5ncyByZWRlc2lnbiBhbmQgcXVpZXRlciBQcmltYXJ5L1VwZGF0ZXMgY2F0ZWdvcnkgYmFkZ2VzLiIsCiAgInNoYTI1NiI6ICI2YzVkNDFlZWI5MzZmOTcwOTkwYTA3NjQ2ZDljZDI1ODhhMjdiNDE1NzgxZTY1NGJkNmJjZmEyY2RmNDVlODBhIiwKICAicHVibGlzaGVkQXQiOiAiMjAyNi0wOS0yMVQwOToyODoyOFoiCn0K",
+  "publishedAt" : "2026-09-21T09:28:28Z",
+  "releaseNotesURL" : "https:\/\/github.com\/joe-2020\/volim-mail-updates\/releases\/tag\/build-123",
+  "sha256" : "6c5d41eeb936f970990a07646d9cd2588a27b415781e654bd6bcfa2cdf45e80a",
+  "signature" : "+93+U5zeel4J80DeYLPu3LeZS4nM6\/kFRsfZUQ3uyTmi2dLdklhd2kZZVZHxgSpgMvR\/rzZF\/s3C8RnVsnRrCw==",
+  "version" : "1.0"
+}
